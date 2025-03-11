@@ -1,1 +1,1 @@
-# create-react-app
+gh pr merge --merge
